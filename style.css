@@ -2460,6 +2460,16 @@ input.button.red:hover {
     background-color: rgba(253,104,91,0.9);
 }
 
+.button.theme,
+input.button.red {
+    background-color: rgba(57,190,10,1);
+}
+
+.button.theme:hover,
+input.button.theme:hover {
+    background-color: rgba(57,190,10,0.9);
+}
+
 .button.orange,
 input.button.orange {
     background-color: rgba(250,111,87,1);
