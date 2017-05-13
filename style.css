@@ -2761,6 +2761,11 @@ i.icon.red,
 i.fa.red {
     color: #fd685c;
 }
+.theme,
+i.icon.theme,
+i.fa.theme {
+    color: #39be0a;
+}
 
 .orange,
 i.icon.orange,
