@@ -4,12 +4,12 @@
 ----------------------------------------------------------------*/
 
 ::selection {
-    background: #FD685B;
+    background: #00bc87;
     color: #fff;
 }
 
 ::-moz-selection {
-    background: #FD685B;
+    background: #00bc87;
     color: #fff;
 }
 
@@ -488,7 +488,7 @@ nav ul.sub-menu > li > a {
 }
 
 nav ul.sub-menu > li > a:hover {
-    background-color: #FD685B;
+    background-color: #00bc87;
     color: #fff;
 }
 
@@ -523,7 +523,7 @@ nav ul.sub-menu > li:last-child > a {
 }
 
 #menu-toggle:hover {
-    color: #FD685B;
+    color: #00bc87;
 }
 
 
@@ -761,7 +761,7 @@ nav ul.sub-menu > li:last-child > a {
 }
 
 .single #post-nav a:hover {
-    color: #FD685B;
+    color: #00bc87;
 }
 
 .single #post-nav .label {
@@ -817,7 +817,7 @@ nav ul.sub-menu > li:last-child > a {
 .single .meta-post a:hover,
 .blog.list-style .meta-post a:hover,
 .search.list-style .meta-post a:hover {
-    color: #FD685B;
+    color: #00bc87;
 }
 
 .single h1 {
@@ -1055,7 +1055,7 @@ nav ul.sub-menu > li:last-child > a {
 .blog.list-style article h2 a:hover,
 .blog-section.list-style article h2 a:hover,
 .search.list-style article h2 a:hover {
-    color: #FD685B;
+    color: #00bc87;
     text-decoration: none;
 }
 
@@ -1104,7 +1104,7 @@ nav ul.sub-menu > li:last-child > a {
 
 .portfolio ul.cats li.active {
     border-bottom: none;
-    color: #FD685B;
+    color: #00bc87;
 }
 
 .related .item {
