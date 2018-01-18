@@ -1366,7 +1366,7 @@ a.reply {
 
 .comment-author cite a:hover,
 a.reply:hover {
-    color: #FD685B;
+    color: #00bc87;
 }
 
 .comment-author {
@@ -3578,7 +3578,7 @@ footer .row-content.buffer {
     }
 
     nav ul li > a:hover {
-        color: #FD685B !important;
+        color: #00bc87 !important;
     }
 
     nav > ul > li:hover > a {
