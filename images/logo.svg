@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="122.622" height="52.994" viewBox="0 0 122.622 52.994">
+  <g id="logo1" transform="translate(-804.47 -196.56)">
+    <g id="LWPOLYLINE" transform="translate(804.47 196.56)">
+      <g id="XMLID_1_" transform="translate(0 0)">
+        <g id="组_2" data-name="组 2">
+          <path id="路径_4" data-name="路径 4" d="M856.993,204v20.145a25.409,25.409,0,0,1-50.463,4.236h.005a3.629,3.629,0,0,0,6.147,1.963l18.9-18.9.005,0,12.7-12.7a7.442,7.442,0,0,1,12.7,5.263Z" transform="translate(-806.178 -196.56)" fill="#2bcac8"/>
+          <path id="路径_5" data-name="路径 5" d="M829.878,211.448l-.005,0-25.046,16.936h-.005a25.661,25.661,0,0,1-.352-4.236V204.007a7.442,7.442,0,0,1,12.7-5.263Z" transform="translate(-804.47 -196.564)" fill="#1fa7a5"/>
+          <path id="路径_6" data-name="路径 6" d="M831.606,283.79l-18.9,18.9a3.629,3.629,0,0,1-6.147-1.963Z" transform="translate(-806.203 -268.903)" fill="#1fa7a5"/>
+        </g>
+      </g>
+    </g>
+    <text id="宿猫" transform="translate(868.262 228.745)" fill="#2bcac8" font-size="27" font-family="zcoolqingkehuangyouti-Regular, zcoolqingkehuangyouti"><tspan x="0" y="0">宿猫</tspan></text>
+    <text id="_" data-name="®" transform="translate(913.092 214.364)" fill="#2bcac8" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">®</tspan></text>
+  </g>
+</svg>

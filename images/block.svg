@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1198" height="768" viewBox="0 0 1198 768">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="矩形_118" data-name="矩形 118" width="1198" height="768" transform="translate(722)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="蒙版组_1" data-name="蒙版组 1" transform="translate(-722)" clip-path="url(#clip-path)">
+    <path id="路径_7" data-name="路径 7" d="M827.869,43S884.816,380.122,1274.9,639.231s603.639,156.6,731.77,122.436S2026,593.9,2026,593.9L2512.5,43H827.869Z" transform="translate(-106 -43)" fill="#3ed5d3"/>
+  </g>
+</svg>
