@@ -6010,28 +6010,28 @@ body.margin-50 .space-nav .is-sticky .sticky {
     top: 260px;
 }
 .body-hompage{
-	padding: 100px;
+	/* padding: 100px; */
 	width: 100%;
 	min-height: 400px;
 }
 .img-left{
-    left: 200px;
+    left: 20px;
     width: 350px;
     position: absolute;
 }
 .img-right{
-    right: 200px;
+    right: 20px;
     width: 350px;
     position: absolute;
 }
 .cards-text-right{
 	text-transform: none;
 	position: absolute;
-    right: 200px;
+    right: 20px;
 }
 .cards-text-left{
 	position: absolute;
-    left: 200px;
+    left: 20px;
 }
 .body-hompage h2{
 	text-transform: none;
@@ -6062,18 +6062,24 @@ body.margin-50 .space-nav .is-sticky .sticky {
 	/* border-radius: 5px; */
 	
 }
-.hp-text{
+.hp-card{
 	position: relative;
     margin: auto;
-    width: 1000px;
+    width: 70%;
     height: 800px;
+}
+.body-card{
+	position: relative;
+    margin: auto;
+    width: 70%;
+    height: 400px;
 }
 
 @media screen and (max-width: 1200px){
 	.hp-1{
 		position: absolute;
 		z-index: 0;
-		right: 100px;
+		right: 50px;
 		top: 200px;
 		width: 400px;
 		min-width: 200px;
@@ -6089,7 +6095,7 @@ body.margin-50 .space-nav .is-sticky .sticky {
 	}
 	.header-text{
 		position: absolute;
-		left: 200px;
+		left: 50px;
 		top: 260px;
 	}
 	.hp-block{
