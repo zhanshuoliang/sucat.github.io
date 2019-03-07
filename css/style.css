@@ -5982,7 +5982,7 @@ body.margin-50 .space-nav .is-sticky .sticky {
 .hp-1{
     position: absolute;
     z-index: 0;
-    right: 200px;
+    right: 20px;
     top: 200px;
     width: 500px;
     min-width: 200px;
@@ -6006,7 +6006,7 @@ body.margin-50 .space-nav .is-sticky .sticky {
 }
 .header-text{
 	position: absolute;
-	left: 200px;
+	left: 20px;
     top: 260px;
 }
 .body-hompage{
@@ -6061,6 +6061,12 @@ body.margin-50 .space-nav .is-sticky .sticky {
 	background-color: #FFF;
 	/* border-radius: 5px; */
 	
+}
+.hp-text{
+	position: relative;
+    margin: auto;
+    width: 1000px;
+    height: 800px;
 }
 
 @media screen and (max-width: 1200px){
