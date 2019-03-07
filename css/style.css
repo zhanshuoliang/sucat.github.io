@@ -4072,17 +4072,19 @@ footer button {
 	background: #434e5a !important;
 }
 .rights .go-up {
-	border: 1px solid #454545;
-	color: #949494;
-	height: 30px;
-	width: 30px;
-	float: right;
-	position: absolute;
-	right: 30px;
-	top: 20px;
-	text-align: center;
-	line-height: 30px;
-	display: inline-block;
+    border: 1px solid #454545;
+    border-radius: 6px;
+    background-color: #999999;
+    color: #212121;
+    height: 30px;
+    width: 30px;
+    float: right;
+    position: absolute;
+    right: 30px;
+    top: 20px;
+    text-align: center;
+    line-height: 30px;
+    display: inline-block;
 }
 .rights .go-up:hover {
 	background: #fff;
